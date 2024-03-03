@@ -7,5 +7,8 @@
     "test": "mocha"
   },
   "author": "amal sayed <amalsayedm@github>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
 }
